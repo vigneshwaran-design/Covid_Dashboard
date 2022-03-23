@@ -1,0 +1,40 @@
+.cover{
+    background-color: rgb(226, 226, 206);
+    padding-bottom:6%;
+    background-image: url(../images/map7.jpg);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.table{
+    text-align: center;
+    background-color:white;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgb(78, 77, 77);
+
+}
+th{
+    font-weight:bold;
+    font-size:20px;
+    font-style:oblique;
+}
+tr{
+    font-size: 15px;
+}
+tr:hover{
+    background-color:rgb(233, 30, 30);
+    color:white;
+    font-size: 25px;
+
+}
